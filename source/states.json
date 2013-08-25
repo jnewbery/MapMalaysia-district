@@ -123,7 +123,7 @@
   {"id":"122","Name":"SEPUTEH","geometry":{"type":"MultiPolygon","coordinates":[[]]}},
   {"id":"123","Name":"CHERAS","geometry":{"type":"MultiPolygon","coordinates":[[]]}},
   {"id":"124","Name":"BANDAR TUN RAZAK","geometry":{"type":"MultiPolygon","coordinates":[[]]}},
-  {"id":"125","Name":"PUTRAJAYA","geometry":{"type":"MultiPolygon","coordinates":[[]]}},
+  {"id":"125","Name":"PUTRAJAYA","geometry":{"type":"MultiPolygon","coordinates":[["125113"]]}},
   {"id":"126","Name":"JELEBU","geometry":{"type":"MultiPolygon","coordinates":[[]]}},
   {"id":"127","Name":"JEMPOL","geometry":{"type":"MultiPolygon","coordinates":[[]]}},
   {"id":"128","Name":"SEREMBAN","geometry":{"type":"MultiPolygon","coordinates":[[]]}},
