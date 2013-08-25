@@ -88,7 +88,7 @@ function add_stats(data) {
 
   // Add the combobox.
   selector = $("<select id='state-combobox' style='width:100%'></select>");
-  selector.append("<option value>Select state...</option>");
+  selector.append("<option value>Select district...</option>");
   for (var ix = 0; ix < states_data.features.length; ix ++) {
     state = states_data.features[ix];
     stName = state.properties.Name;
